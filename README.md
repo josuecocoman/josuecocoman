@@ -1,57 +1,52 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1500&color=525252&width=480&lines=Senior+Multi-Domain+Engineer;Odoo+Architect+%E2%80%94+V10+to+V19;DevOps+%2F+Infra+%2F+AI+%2F+Industrial+Automation;Tensor+Analytics+%E2%80%94+Costa+Rica" alt="role" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josuecocoman/josuecocoman/main/hero.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josuecocoman/josuecocoman/main/hero.svg" />
+  <img src="https://raw.githubusercontent.com/josuecocoman/josuecocoman/main/hero.svg" alt="Josue Cascante — Senior Multi-Domain Engineer" width="100%" />
+</picture>
 
-# Josue Cascante
+<br/>
 
-I architect Odoo systems that survive the audit, the migration,
-and the third change of accountant.
-
-Founder of **Tensor Analytics** — senior consulting at the intersection of
-ERP, infrastructure, AI, and industrial automation.
-10+ years doing with automation what most people discovered after ChatGPT.
-
-<a href="README.es.md">
-  <img src="https://img.shields.io/badge/ES-Español-525252?style=flat-square" alt="Español" />
-</a>
-&nbsp;
-<a href="README.md">
-  <img src="https://img.shields.io/badge/EN-English-D97757?style=flat-square" alt="English (active)" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:tensordoo@gmail.com">
-  <img src="https://img.shields.io/badge/Contact_for_engagements-D97757?style=flat-square" alt="Contact" />
-</a>
+<a href="README.es.md"><img src="https://img.shields.io/badge/ES-Español-525252?style=flat-square" /></a>&nbsp;
+<a href="README.md"><img src="https://img.shields.io/badge/EN-English-D97757?style=flat-square" /></a>&nbsp;&nbsp;
+<a href="mailto:tensordoo@gmail.com"><img src="https://img.shields.io/badge/Contact_for_engagements_%E2%86%92-D97757?style=flat-square" /></a>&nbsp;
+<a href="https://app.tensor-analytics.pro"><img src="https://img.shields.io/badge/tensor--analytics.pro-0F172A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOCAxTDE1IDUuNVYxMC41TDggMTVMMSAxMC41VjUuNUw4IDFaIiBzdHJva2U9IiNEOTc3NTciIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIi8+PC9zdmc+" /></a>
 
 </div>
 
----
-
-```
-─────────────────────────────────── ⬡ ───────────────────────────────────
-```
+<br/>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
+<br/>
 
-###### — YEARS TEACHING
-# 16+
-Senior instructor · COSVIC & USACA
-
-</td>
-<td align="center" width="33%">
-
-###### — MODULES IN PRODUCTION
-# 3,000+
-Odoo deployments across 5+ countries
+```
+16+
+```
+###### YEARS TEACHING
+Senior Instructor · COSVIC & USACA · 100+ students
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
+<br/>
 
-###### — ODOO VERSIONS MASTERED
-# V10 → V19
-Certified official V19
+```
+3,000+
+```
+###### MODULES IN PRODUCTION
+Odoo deployments · 5+ countries
+
+</td>
+<td width="33%" align="center">
+<br/>
+
+```
+V10 → V19
+```
+###### ODOO CERTIFIED
+Official V19 · every major version
 
 </td>
 </tr>
@@ -65,36 +60,40 @@ Certified official V19
 <tr>
 <td width="50%" valign="top">
 
-**Odoo ERP**
+**`ODOO ERP`**
 
-Certified V19. From custom module architecture to full business process redesign — accounting, HR, manufacturing, inventory. I don't configure modules. I redesign workflows.
+Certified V19. Architecture, module development, full business process redesign — accounting, HR, manufacturing, inventory. I don't configure. I redesign.
 
-Flagship: proprietary Electronic Invoicing solution for Costa Rica, compatible across all Odoo versions.
+> Flagship: proprietary Electronic Invoicing for Costa Rica, compatible across all Odoo versions.
 
 </td>
 <td width="50%" valign="top">
 
-**DevOps & Architecture**
+**`DEVOPS & ARCHITECTURE`**
 
-Odoo clusters on Proxmox with hardening. Kubernetes, Docker, Nginx, PostgreSQL tuning (pre-fetch, LRU cache, cProfile profiling), Redis, Memcached, RabbitMQ, Celery.
+Odoo clusters on Proxmox with hardening. Kubernetes · Docker · Nginx · PostgreSQL deep tuning (pre-fetch, LRU cache, cProfile) · Redis · RabbitMQ · Celery.
 
-Systems built to survive Black Friday, not just demos.
+> Built for production reality, not demo conditions.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**AI & Automation**
+**`AI & AUTOMATION`**
 
-Not the ChatGPT-era kind. 10+ years in automation before LLMs became a LinkedIn skill. Local AI servers, custom models integrated with Odoo in real time, prompt engineering that ships to production.
+10+ years in automation before LLMs became a LinkedIn skill. Local AI servers, custom models integrated with Odoo in real time, prompt engineering that ships to production.
+
+> Not the ChatGPT-era kind.
 
 </td>
 <td width="50%" valign="top">
 
-**Industrial Automation**
+**`INDUSTRIAL & IoT`**
 
-INA-certified in PCB design and PIC microcontroller programming. Industrial machinery retrofit with sensors and IoT. Networks, IP cameras, home automation — from the wire to the dashboard.
+INA-certified in PCB design and PIC microcontroller programming. Industrial machinery retrofit. Sensor networks, IP cameras, home automation.
+
+> From the wire to the dashboard.
 
 </td>
 </tr>
@@ -104,58 +103,99 @@ INA-certified in PCB design and PIC microcontroller programming. Industrial mach
 
 ###### — TECHNICAL FLUENCY
 
+<table>
+<tr>
+<td width="20%" valign="top">
+
 **ERP**
-`Odoo V19` `V18` `V17` `V16` `V15` `V14` `V13` `V12` `V10` `Electronic Invoicing CR`
+`Odoo V19`
+`V18` `V17` `V16`
+`V15` `V14` `V13`
+`V12` `V10`
+`e-Invoice CR`
 
-**Languages**
-`Python` `JavaScript` `TypeScript` `PHP` `Ruby`
+</td>
+<td width="20%" valign="top">
 
-**Frameworks**
-`Django` `Vue.js` `Node.js` `Angular` `Laravel` `Rails` `Flutter`
+**LANGUAGES**
+`Python`
+`JavaScript`
+`TypeScript`
+`PHP` `Ruby`
 
-**Infrastructure**
-`PostgreSQL` `Docker` `Kubernetes` `Proxmox` `Nginx` `Redis` `Memcached` `RabbitMQ` `Celery`
+</td>
+<td width="20%" valign="top">
 
-**AI & Systems**
-`LLM Integration` `Local AI Servers` `Prompt Engineering` `Linux (Advanced)` `Windows Server`
+**FRAMEWORKS**
+`Django`
+`Vue.js`
+`Node.js`
+`Angular`
+`Laravel`
+`Rails`
+`Flutter`
 
-**Hardware**
-`PCB Design` `PIC Microcontrollers` `IoT Industrial` `IP Camera Systems`
+</td>
+<td width="20%" valign="top">
+
+**INFRA**
+`PostgreSQL`
+`Docker`
+`Kubernetes`
+`Proxmox`
+`Nginx`
+`Redis`
+`RabbitMQ`
+
+</td>
+<td width="20%" valign="top">
+
+**AI / SYS**
+`LLM Integration`
+`Local AI Servers`
+`Prompt Eng.`
+`Linux Adv.`
+`Win Server`
+`PCB Design`
+`PIC MCUs`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ###### — ACTIVITY
 
+<table>
+<tr>
+<td valign="top">
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=josuecocoman&show_icons=true&hide_border=true&bg_color=00000000&title_color=D97757&text_color=A8A29E&icon_color=D97757&ring_color=D97757&hide=contribs"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=josuecocoman&show_icons=true&hide_border=true&bg_color=00000000&title_color=B45309&text_color=525252&icon_color=B45309&ring_color=B45309&hide=contribs"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=josuecocoman&show_icons=true&hide_border=true&bg_color=00000000&title_color=D97757&text_color=A8A29E&icon_color=D97757" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=josuecocoman&show_icons=true&hide_border=true&bg_color=0B1120&title_color=D97757&text_color=A8A29E&icon_color=D97757&ring_color=D97757&hide=contribs&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=josuecocoman&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=B45309&text_color=525252&icon_color=B45309&ring_color=B45309&hide=contribs&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josuecocoman&show_icons=true&hide_border=true&bg_color=0B1120&title_color=D97757&text_color=A8A29E&icon_color=D97757" height="160" alt="stats" />
 </picture>
-&nbsp;
+
+</td>
+<td valign="top">
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecocoman&layout=compact&hide_border=true&bg_color=00000000&title_color=D97757&text_color=A8A29E&langs_count=6"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecocoman&layout=compact&hide_border=true&bg_color=00000000&title_color=B45309&text_color=525252&langs_count=6"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecocoman&layout=compact&hide_border=true&bg_color=00000000&title_color=D97757&text_color=A8A29E&langs_count=6" alt="top langs" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecocoman&layout=compact&hide_border=true&bg_color=0B1120&title_color=D97757&text_color=A8A29E&langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecocoman&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=B45309&text_color=525252&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecocoman&layout=compact&hide_border=true&bg_color=0B1120&title_color=D97757&text_color=A8A29E&langs_count=6" height="160" alt="top langs" />
 </picture>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ###### — CURRENTLY
 
-Available for senior Odoo consulting, infrastructure architecture, and AI integration engagements.
-B2B, remote or on-site in Latin America.
+Available for senior Odoo consulting, infrastructure architecture, and AI integration.
+B2B · remote or on-site in Latin America.
 
 ---
 
@@ -165,25 +205,25 @@ B2B, remote or on-site in Latin America.
 <tr>
 <td width="25%" valign="top">
 
-`EMAIL`
+###### `EMAIL`
 [tensordoo@gmail.com](mailto:tensordoo@gmail.com)
 
 </td>
 <td width="25%" valign="top">
 
-`LINKEDIN`
+###### `LINKEDIN`
 [josue-cascante](https://linkedin.com/in/josue-cascante-54b690119)
 
 </td>
 <td width="25%" valign="top">
 
-`WEB`
+###### `WEB`
 [tensor-analytics.pro](https://app.tensor-analytics.pro)
 
 </td>
 <td width="25%" valign="top">
 
-`PHONE`
+###### `PHONE`
 [+506 8303-4055](tel:+50683034055)
 
 </td>
