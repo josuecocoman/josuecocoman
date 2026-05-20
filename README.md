@@ -11,7 +11,8 @@
 <a href="README.es.md"><img src="https://img.shields.io/badge/ES-Español-525252?style=flat-square" /></a>&nbsp;
 <a href="README.md"><img src="https://img.shields.io/badge/EN-English-D97757?style=flat-square" /></a>&nbsp;&nbsp;
 <a href="mailto:tensordoo@gmail.com"><img src="https://img.shields.io/badge/Contact_for_engagements_%E2%86%92-D97757?style=flat-square" /></a>&nbsp;
-<a href="https://app.tensor-analytics.pro"><img src="https://img.shields.io/badge/tensor--analytics.pro-0F172A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOCAxTDE1IDUuNVYxMC41TDggMTVMMSAxMC41VjUuNUw4IDFaIiBzdHJva2U9IiNEOTc3NTciIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIi8+PC9zdmc+" /></a>
+<a href="https://josuecocoman.github.io"><img src="https://img.shields.io/badge/Portfolio_Site_%E2%86%92-0F172A?style=flat-square&color=D97757" /></a>&nbsp;
+<a href="https://app.tensor-analytics.pro"><img src="https://img.shields.io/badge/tensor--analytics.pro-0F172A?style=flat-square" /></a>
 
 </div>
 
